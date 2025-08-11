@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-lts-versions": "^1.7.2"
+  }
+}
