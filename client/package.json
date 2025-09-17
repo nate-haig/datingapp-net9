@@ -20,6 +20,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cli": "^20.2.2",
     "@angular/common": "^20.1.0",
     "@angular/compiler": "^20.1.0",
     "@angular/core": "^20.1.0",
@@ -33,7 +34,6 @@
   },
   "devDependencies": {
     "@angular/build": "^20.1.5",
-    "@angular/cli": "^20.1.5",
     "@angular/compiler-cli": "^20.1.0",
     "@types/jasmine": "~5.1.0",
     "daisyui": "^5.0.50",
